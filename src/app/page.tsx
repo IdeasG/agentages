@@ -9,8 +9,8 @@ export default function Home() {
       {/* Navbar */}
       <nav className="flex items-center justify-between px-8 md:px-16 py-6 border-b border-white/5 backdrop-blur-md sticky top-0 z-50">
         <div className="flex items-center gap-2">
-          <img src="/agentera_logo.png" alt="AgentEra Logo" className="w-8 h-8 rounded-lg shadow-[0_0_15px_rgba(34,211,238,0.5)]" />
-          <span className="text-xl font-bold tracking-tight">Agent<span className="text-cyan-400">Era</span></span>
+          <img src="/agentera_logo.png" alt="AgentAge Logo" className="w-8 h-8 rounded-lg shadow-[0_0_15px_rgba(34,211,238,0.5)]" />
+          <span className="text-xl font-bold tracking-tight">Agent<span className="text-cyan-400">Age</span></span>
         </div>
         <div className="hidden md:flex gap-8 text-sm text-gray-400 font-medium">
           <a href="#features" className="hover:text-white transition-colors">Características</a>
@@ -28,7 +28,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative pt-32 pb-20 px-8 md:px-16 max-w-6xl mx-auto flex flex-col items-center text-center">
         <div className="inline-block mb-6 px-4 py-1.5 rounded-full border border-cyan-500/30 bg-cyan-500/10 text-cyan-300 text-sm font-medium">
-          🚀 AgentEra presenta: AntiGram v1.0
+          🚀 AgentAge presenta: AntiGram v1.0
         </div>
         
         <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-8 leading-tight">
