@@ -16,6 +16,7 @@ export default function Home() {
           <a href="#features" className="hover:text-white transition-colors">Características</a>
           <a href="#how-it-works" className="hover:text-white transition-colors">Cómo Funciona</a>
           <a href="#pricing" className="hover:text-white transition-colors">Precios</a>
+          <a href="/docs" className="hover:text-cyan-400 transition-colors">Documentación</a>
         </div>
         <a 
           href="#pricing"
