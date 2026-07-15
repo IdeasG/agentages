@@ -162,7 +162,7 @@ export default function Home() {
             </ul>
 
             <a 
-              href="https://ideasg.lemonsqueezy.com/checkout/buy/ad1204ca-54bf-4915-a320-3ca7a6f24dab" 
+              href="https://agentsage.lemonsqueezy.com/checkout/buy/ad1204ca-54bf-4915-a320-3ca7a6f24dab" 
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full py-4 bg-white text-black text-center font-bold rounded-xl hover:bg-gray-200 transition-colors shadow-[0_0_20px_rgba(255,255,255,0.2)]"
