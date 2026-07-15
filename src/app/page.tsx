@@ -188,7 +188,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="border-t border-white/5 py-12 px-8 text-center text-gray-500 text-sm">
-        <p>© 2026 AntiGram. Construido para desarrolladores imparables.</p>
+        <p>© 2026 AgentAge. Construido para desarrolladores imparables.</p>
       </footer>
     </main>
   );
