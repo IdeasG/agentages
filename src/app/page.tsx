@@ -9,7 +9,7 @@ export default function Home() {
       {/* Navbar */}
       <nav className="flex items-center justify-between px-8 md:px-16 py-6 border-b border-white/5 backdrop-blur-md sticky top-0 z-50">
         <div className="flex items-center gap-2">
-          <img src="/logo.png" alt="AgentEra Logo" className="w-8 h-8 rounded-lg shadow-[0_0_15px_rgba(34,211,238,0.5)]" />
+          <img src="/agentera_logo.png" alt="AgentEra Logo" className="w-8 h-8 rounded-lg shadow-[0_0_15px_rgba(34,211,238,0.5)]" />
           <span className="text-xl font-bold tracking-tight">Agent<span className="text-cyan-400">Era</span></span>
         </div>
         <div className="hidden md:flex gap-8 text-sm text-gray-400 font-medium">
