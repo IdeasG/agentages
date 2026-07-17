@@ -1,7 +1,7 @@
 import React from 'react';
 
 export const metadata = {
-  title: 'Guía de Inicio Rápido — AntiGram by AgentAges',
+  title: 'Guía de Inicio Rápido — AntiGram by AngentAges',
   description: 'Aprende a configurar AntiGram en 5 minutos. Controla tu Agente de IA Antigravity desde Telegram.',
 };
 
@@ -13,8 +13,8 @@ export default function Docs() {
       {/* Navbar */}
       <nav className="flex items-center justify-between px-8 md:px-16 py-6 border-b border-white/5 backdrop-blur-md sticky top-0 z-50">
         <a href="/" className="flex items-center gap-2">
-          <img src="/agentera_logo.png" alt="AgentAges Logo" className="w-8 h-8 rounded-lg shadow-[0_0_15px_rgba(34,211,238,0.5)]" />
-          <span className="text-xl font-bold tracking-tight">Agent<span className="text-cyan-400">Ages</span></span>
+          <img src="/agentera_logo.png" alt="AngentAges Logo" className="w-8 h-8 rounded-lg shadow-[0_0_15px_rgba(34,211,238,0.5)]" />
+          <span className="text-xl font-bold tracking-tight">Angent<span className="text-cyan-400">Ages</span></span>
         </a>
         <a href="/#pricing" className="px-5 py-2 text-sm font-semibold bg-white/10 hover:bg-white/20 border border-white/10 rounded-full transition-all duration-300">
           Comprar AntiGram
@@ -173,7 +173,7 @@ export default function Docs() {
       </div>
 
       <footer className="border-t border-white/5 py-8 px-8 text-center text-gray-500 text-sm mt-8">
-        <p>© 2026 AgentAges. <a href="/" className="hover:text-cyan-400 transition-colors">Volver al inicio</a></p>
+        <p>© 2026 AngentAges. <a href="/" className="hover:text-cyan-400 transition-colors">Volver al inicio</a></p>
       </footer>
     </main>
   );
